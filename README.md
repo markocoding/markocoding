@@ -1,7 +1,7 @@
-# Hi there 👋, my name is Marko
-### Let's create Something awesome!
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
+# My name is Marko, let's create Something awesome!
 
 I'm young aspiring web developer from Belgrade. 
 Always looking for opportunities to learn and participate in amazing projects!
