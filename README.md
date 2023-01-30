@@ -1,5 +1,5 @@
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height: 70%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height: 70%" /> -->
 
 # My name is Marko, let's create Something awesome!
 
