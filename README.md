@@ -8,7 +8,7 @@ Always looking for opportunities to learn and participate in amazing projects!
 
 - 🔭 I’m currently working on better understanding of Laravel and Linux
 - :heavy_check_mark: React next technology on agenda  
-- 📫 You can always contact me via markobaj75@gmail.com or <a href="https://google.com" target="_blank">LinkedIn</a>
+- 📫 You can always contact me via markobaj75@gmail.com or <a href="https://www.linkedin.com/in/marko-bajramoski/" target="_blank" >LinkedIn</a>
 
 
 ## My Skill Set  
