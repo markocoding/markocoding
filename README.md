@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Marko
 ### Let's create Something awesome!
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 
 
 I'm young aspiring web developer from Belgrade. 
